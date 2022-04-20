@@ -1,1 +1,1 @@
-# gyakGui
+# Tellér Ádám Balázs
